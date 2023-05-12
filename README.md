@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div align="center">
+<div align="left">
   <h2>👋 Hello there! I'm Gefen Bar</h2>
   <p>A passionate software developer with expertise in multiple programming languages and technologies.</p>
   <br>
