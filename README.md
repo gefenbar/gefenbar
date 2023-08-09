@@ -19,8 +19,8 @@
   <br>
   <p>Contact:</p>
   <p>Phone: +972-502001376</p>
-  <p>Email: gefenbar003@gmail.com</p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/gefen-bar-software-developer/">Gefen Bar</a></p>
+  <p>Email: gefenbar23@gmail.com</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/gefen-bar">Gefen Bar</a></p>
   <p>Portfolio: <a href="https://gefenbar.netlify.app/">My Portfolio Website</a></p>
 </div>
 
