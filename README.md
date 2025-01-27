@@ -65,7 +65,7 @@
         </p>
         <h2>🛠️ Skills & Technologies</h2>
         <ul>
-            <li><strong>Programming Languages:</strong> Python, Java, C#, C++, JavaScript</li>
+            <li><strong>Programming Languages:</strong> JavaScript, Python, Java, C#</li>
             <li><strong>Frontend Development:</strong> HTML5, CSS3, TailwindCSS, React, Angular (basic)</li>
             <li><strong>Backend Development:</strong> Flask</li>
             <li><strong>Tools & Environments:</strong> Git, Linux, Agile Development</li>
