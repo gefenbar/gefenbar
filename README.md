@@ -63,7 +63,6 @@
         <p>
             I'm <strong>Gefen Bar</strong>, a <strong>Software Developer</strong> with over a year of industry experience. I specialize in building efficient, scalable, and user-friendly applications. With a strong foundation in <strong>web development</strong> and <strong>software engineering</strong>, I’m passionate about delivering impactful solutions that solve real-world problems.
         </p>
-
         <h2>🛠️ Skills & Technologies</h2>
         <ul>
             <li><strong>Programming Languages:</strong> Python, Java, C#, C++, JavaScript</li>
@@ -71,10 +70,8 @@
             <li><strong>Backend Development:</strong> Flask</li>
             <li><strong>Tools & Environments:</strong> Git, Linux, Agile Development</li>
         </ul>
-
         <h2>📂 Projects</h2>
         <p>💡 Check out my repositories for projects related to <strong>web development</strong> and <strong>full-stack applications</strong>.</p>
-
         <h2>🌍 Connect with Me</h2>
         <div class="links">
             <a href="https://linkedin.com/in/gefen-bar" target="_blank">LinkedIn</a>
